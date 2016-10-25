@@ -39,7 +39,7 @@ Bila Anda suka, cara lain Anda dapat mengunduh secara manual salinan [repositori
 ### Izin
 
 <!-- After installing Laravel, you may need to grant the web server write permissions to the `app/storage` directories. See the [Installation](/docs/installation) documentation for more details on configuration. -->
-Setelah memasang Laravel, Anda perlu memberi peladen web izin tulis pada direktori-direktori di dalam `app/storage`. Lihat dokumentasi [Pemasangan](/docs/installation) untuk rincian pengaturan yang lebih rinci.
+Setelah memasang Laravel, Anda perlu memberi izin tulis pada peramban web untuk seluruh direktori di dalam `app/storage`. Lihat dokumentasi [Pemasangan](/docs/installation) untuk rincian pengaturan yang lebih rinci.
 
 <a name="routing"></a>
 <!-- ## Routing -->
